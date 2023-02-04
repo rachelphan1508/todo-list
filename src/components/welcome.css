@@ -1,0 +1,8 @@
+/* color palette: blue: #5193B3 green #62C4C3 yellow #D8D49B beige #F8E6CB */
+
+.welcome {
+    height: 100vh;
+    width: 100vw;
+    /* background: #F8E6CB; */
+    position: relative
+}
